@@ -18,5 +18,4 @@ for x in range(0, len(dataList)):
 
     totalFuel = totalFuel + startFuel
 
-print("Your answer is...")
-print(totalFuel)
+print("Your answer is... " + str(totalFuel))
